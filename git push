@@ -1,0 +1,11 @@
+[33mcommit 7aadaf0229bcb2b29191dd369fc9988afc534ee7[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Daureen.Sede <daureen.sede@gmail.com>
+Date:   Thu Aug 25 18:35:54 2022 +0100
+
+    new changes
+
+[33mcommit 07644126dfa71916b38893449dc3662beef6da72[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Daureen.Sede <daureen.sede@gmail.com>
+Date:   Thu Aug 25 17:50:52 2022 +0100
+
+    added cloudfront code for caching @tash-1234
